@@ -13,3 +13,12 @@
 # 课设相关的资料
 
 [Andrew Ng推荐系统](https://blog.csdn.net/u012052268/article/details/78867860)
+
+[goodbooks-10k](https://www.kaggle.com/zygmunt/goodbooks-10k)
+
+[Film recommendation engine
+](https://www.kaggle.com/fabiendaniel/film-recommendation-engine)
+
+[Amazon - Ratings (Beauty Products)](https://www.kaggle.com/skillsmuggler/what-do-you-recommend)
+
+[movieLens](https://www.kaggle.com/tushar987/recommender-system)
