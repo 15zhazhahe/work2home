@@ -1,0 +1,1 @@
++ [中国大学MOOC———《机器人操作系统入门》讲义](https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/chapter2/2.4.html)
